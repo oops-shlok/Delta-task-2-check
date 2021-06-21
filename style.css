@@ -1,0 +1,6 @@
+canvas{
+  display:flex;
+  justify-content:end;
+  border: 1px solid #fff;
+  background-color: #333;
+}
