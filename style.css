@@ -1,0 +1,9 @@
+canvas{
+  display:flex;
+  justify-content:end;
+  background-color: #333;
+}
+
+#highscore{
+  color:#ccc;
+}
