@@ -48,6 +48,7 @@ function updateArea(){
   
   if(topObs() || bottomObs()){
     stop();
+    swal('You missed it mate! You lost :( ');
   }
 
   
